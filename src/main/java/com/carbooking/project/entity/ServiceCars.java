@@ -35,4 +35,12 @@ public class ServiceCars extends AuditModel implements Serializable
 
 
 
+    @Column(name = "car_mileage")
+    private String citymileage;
+
+
+
+
+
+
 }
