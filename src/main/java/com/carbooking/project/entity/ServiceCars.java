@@ -34,33 +34,18 @@ public class ServiceCars extends AuditModel implements Serializable
     @Column(name = "city_name")
     private String cityName;
 
-
-    @Column(name = "city_name1")
-    private String cityName1;
-
-    @Column(name = "city_name2")
-    private String cityName2;
-
-
-
-    @Column(name = "car_Colour")
-    private String cityColor;
-
-
-
-
-
-
-    @Column(name = "car_mileage")
-    private String citymileage;
-
-
-
-
-
+    @Column(name = "city_name")
+    private String PersonC;
 
     @Column(name = "city_name")
-    private String CITY ;
+    private String cityNameOfPerconC;
+
+
+
+
+
+
+
 
 
 
