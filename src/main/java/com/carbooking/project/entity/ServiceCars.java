@@ -52,17 +52,14 @@ public class ServiceCars extends AuditModel implements Serializable
     private String PersonC3;
 
     @Column(name = "city_name")
-    private String cityNameOfPerconC3;
+    private String cityNameOfPerconC389;
 
 
 
 
 
-
-
-
-
-
+    @Column(name = "city_name")
+    private String conflict;
 
 
 
