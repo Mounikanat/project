@@ -64,7 +64,7 @@ public class ServiceCars extends AuditModel implements Serializable
 
 
     @Column(name = "city_name")
-    private String conflict1;
+    private String conflict1Conflict2;
 
 
 
