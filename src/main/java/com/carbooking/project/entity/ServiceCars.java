@@ -58,9 +58,8 @@ public class ServiceCars extends AuditModel implements Serializable
 
 
 
-
-
-
+    @Column(name = "city_name")
+    private String conflict;
 
 
 
