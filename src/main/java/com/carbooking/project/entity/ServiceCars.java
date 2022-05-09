@@ -48,6 +48,15 @@ public class ServiceCars extends AuditModel implements Serializable
     private String cityNameOfPerconC2;
 
 
+    @Column(name = "city_name")
+    private String PersonC3;
+
+    @Column(name = "city_name")
+    private String cityNameOfPerconC3;
+
+
+
+
 
 
 
